@@ -1,0 +1,15 @@
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallengeProblem2/MergeKSortedLists/bin/Debug/net6.0/MergeKSortedLists
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallengeProblem2/MergeKSortedLists/bin/Debug/net6.0/MergeKSortedLists.deps.json
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallengeProblem2/MergeKSortedLists/bin/Debug/net6.0/MergeKSortedLists.runtimeconfig.json
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallengeProblem2/MergeKSortedLists/bin/Debug/net6.0/MergeKSortedLists.dll
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallengeProblem2/MergeKSortedLists/bin/Debug/net6.0/MergeKSortedLists.pdb
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallengeProblem2/MergeKSortedLists/obj/Debug/net6.0/MergeKSortedLists.csproj.AssemblyReference.cache
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallengeProblem2/MergeKSortedLists/obj/Debug/net6.0/MergeKSortedLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallengeProblem2/MergeKSortedLists/obj/Debug/net6.0/MergeKSortedLists.AssemblyInfoInputs.cache
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallengeProblem2/MergeKSortedLists/obj/Debug/net6.0/MergeKSortedLists.AssemblyInfo.cs
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallengeProblem2/MergeKSortedLists/obj/Debug/net6.0/MergeKSortedLists.csproj.CoreCompileInputs.cache
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallengeProblem2/MergeKSortedLists/obj/Debug/net6.0/MergeKSortedLists.dll
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallengeProblem2/MergeKSortedLists/obj/Debug/net6.0/refint/MergeKSortedLists.dll
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallengeProblem2/MergeKSortedLists/obj/Debug/net6.0/MergeKSortedLists.pdb
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallengeProblem2/MergeKSortedLists/obj/Debug/net6.0/MergeKSortedLists.genruntimeconfig.cache
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallengeProblem2/MergeKSortedLists/obj/Debug/net6.0/ref/MergeKSortedLists.dll

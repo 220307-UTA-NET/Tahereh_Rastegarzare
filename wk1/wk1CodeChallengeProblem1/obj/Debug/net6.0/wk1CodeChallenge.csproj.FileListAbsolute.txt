@@ -1,0 +1,15 @@
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallenge/obj/Debug/net6.0/wk1CodeChallenge.csproj.AssemblyReference.cache
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallenge/obj/Debug/net6.0/wk1CodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallenge/obj/Debug/net6.0/wk1CodeChallenge.AssemblyInfoInputs.cache
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallenge/obj/Debug/net6.0/wk1CodeChallenge.AssemblyInfo.cs
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallenge/obj/Debug/net6.0/wk1CodeChallenge.csproj.CoreCompileInputs.cache
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallenge/bin/Debug/net6.0/wk1CodeChallenge
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallenge/bin/Debug/net6.0/wk1CodeChallenge.deps.json
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallenge/bin/Debug/net6.0/wk1CodeChallenge.runtimeconfig.json
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallenge/bin/Debug/net6.0/wk1CodeChallenge.dll
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallenge/bin/Debug/net6.0/wk1CodeChallenge.pdb
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallenge/obj/Debug/net6.0/wk1CodeChallenge.dll
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallenge/obj/Debug/net6.0/refint/wk1CodeChallenge.dll
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallenge/obj/Debug/net6.0/wk1CodeChallenge.pdb
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallenge/obj/Debug/net6.0/wk1CodeChallenge.genruntimeconfig.cache
+/Users/taherehrastegarzare/Desktop/Project OnBoarding/wk1/wk1CodeChallenge/obj/Debug/net6.0/ref/wk1CodeChallenge.dll
