@@ -1,0 +1,15 @@
+/Users/taherehrastegarzare/Desktop/ProjectOnBoarding/wk2/CounSquares/bin/Debug/net6.0/CounSquares
+/Users/taherehrastegarzare/Desktop/ProjectOnBoarding/wk2/CounSquares/bin/Debug/net6.0/CounSquares.deps.json
+/Users/taherehrastegarzare/Desktop/ProjectOnBoarding/wk2/CounSquares/bin/Debug/net6.0/CounSquares.runtimeconfig.json
+/Users/taherehrastegarzare/Desktop/ProjectOnBoarding/wk2/CounSquares/bin/Debug/net6.0/CounSquares.dll
+/Users/taherehrastegarzare/Desktop/ProjectOnBoarding/wk2/CounSquares/bin/Debug/net6.0/CounSquares.pdb
+/Users/taherehrastegarzare/Desktop/ProjectOnBoarding/wk2/CounSquares/obj/Debug/net6.0/CounSquares.csproj.AssemblyReference.cache
+/Users/taherehrastegarzare/Desktop/ProjectOnBoarding/wk2/CounSquares/obj/Debug/net6.0/CounSquares.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taherehrastegarzare/Desktop/ProjectOnBoarding/wk2/CounSquares/obj/Debug/net6.0/CounSquares.AssemblyInfoInputs.cache
+/Users/taherehrastegarzare/Desktop/ProjectOnBoarding/wk2/CounSquares/obj/Debug/net6.0/CounSquares.AssemblyInfo.cs
+/Users/taherehrastegarzare/Desktop/ProjectOnBoarding/wk2/CounSquares/obj/Debug/net6.0/CounSquares.csproj.CoreCompileInputs.cache
+/Users/taherehrastegarzare/Desktop/ProjectOnBoarding/wk2/CounSquares/obj/Debug/net6.0/CounSquares.dll
+/Users/taherehrastegarzare/Desktop/ProjectOnBoarding/wk2/CounSquares/obj/Debug/net6.0/refint/CounSquares.dll
+/Users/taherehrastegarzare/Desktop/ProjectOnBoarding/wk2/CounSquares/obj/Debug/net6.0/CounSquares.pdb
+/Users/taherehrastegarzare/Desktop/ProjectOnBoarding/wk2/CounSquares/obj/Debug/net6.0/CounSquares.genruntimeconfig.cache
+/Users/taherehrastegarzare/Desktop/ProjectOnBoarding/wk2/CounSquares/obj/Debug/net6.0/ref/CounSquares.dll
